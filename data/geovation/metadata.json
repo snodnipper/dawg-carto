@@ -1,0 +1,13 @@
+{
+"name": "geovation",
+"description": "geovation",
+"version": "2",
+"minzoom": "0",
+"maxzoom": "14",
+"center": "-0.099742,51.524381,14",
+"bounds": "-0.099742,51.524381,-0.099742,51.524381",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v1.30.0",
+"json": "{\"vector_layers\": [ { \"id\": \"geovation\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 14, \"fields\": {\"name\": \"String\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"geovation\",\"count\": 1,\"geometry\": \"Point\",\"attributeCount\": 1,\"attributes\": [{\"attribute\": \"name\",\"count\": 1,\"type\": \"string\",\"values\": [\"Geovation\"]}]}]}}"
+}

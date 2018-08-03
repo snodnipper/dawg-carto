@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099742,
+          51.524381
+        ]
+      }
+    }
+  ]
+}
+
