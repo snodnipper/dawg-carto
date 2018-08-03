@@ -4,62 +4,62 @@
     "pixelRatio": 2,
     "width": 42,
     "x": 0,
-    "y": 88
+    "y": 0
   },
   "LRTS": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 159,
-    "y": 130
+    "x": 115,
+    "y": 84
   },
   "LRTS-UG": {
     "height": 31,
     "pixelRatio": 2,
     "width": 69,
-    "x": 42,
-    "y": 88
+    "x": 74,
+    "y": 0
   },
   "RS": {
     "height": 30,
     "pixelRatio": 2,
     "width": 48,
-    "x": 189,
-    "y": 130
+    "x": 0,
+    "y": 115
   },
   "RS-LRTS": {
     "height": 31,
     "pixelRatio": 2,
     "width": 80,
-    "x": 0,
-    "y": 130
+    "x": 44,
+    "y": 42
   },
   "RS-UG": {
     "height": 31,
     "pixelRatio": 2,
     "width": 79,
-    "x": 80,
-    "y": 130
+    "x": 0,
+    "y": 84
   },
   "UG": {
     "height": 31,
     "pixelRatio": 2,
     "width": 36,
-    "x": 111,
-    "y": 88
+    "x": 79,
+    "y": 84
   },
   "dawg": {
-    "height": 84,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 84,
-    "x": 88,
+    "width": 32,
+    "x": 42,
     "y": 0
   },
   "geovation": {
-    "height": 88,
+    "height": 42,
     "pixelRatio": 2,
-    "width": 88,
+    "width": 44,
     "x": 0,
-    "y": 0
+    "y": 42
   }
 }
