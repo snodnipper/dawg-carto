@@ -1,0 +1,13 @@
+{
+"name": "dawgs",
+"description": "dawgs",
+"version": "2",
+"minzoom": "0",
+"maxzoom": "14",
+"center": "-3.197021,55.943047,14",
+"bounds": "-4.292112,50.825124,1.297795,57.371609",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v1.30.0",
+"json": "{\"vector_layers\": [ { \"id\": \"dawgs\", \"description\": \"\", \"minzoom\": 0, \"maxzoom\": 14, \"fields\": {\"name\": \"String\"} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"dawgs\",\"count\": 37,\"geometry\": \"Point\",\"attributeCount\": 1,\"attributes\": [{\"attribute\": \"name\",\"count\": 37,\"type\": \"string\",\"values\": [\"Aberdeen\",\"Angel\",\"Birmingham\",\"BrewDog Outpost Tower Hill\",\"Brighton\",\"Bristol\",\"Camden\",\"Cardiff\",\"Castlegate\",\"Clapham Junction\",\"Clerkenwell\",\"DogHouse Merchant City\",\"DogTap & DogWalk Brewery Tour\",\"Dundee\",\"Edinburgh\",\"Glasgow\",\"Leeds\",\"Leicester\",\"Liverpool\",\"Lothian Road Edinburgh\",\"Manchester\",\"Milton Keynes\",\"Newcastle\",\"North Street Leeds\",\"Norwich\",\"Nottingham\",\"Overworks Tap Room\",\"Oxford\",\"Reading\",\"Seven Dials \",\"Sheffield\",\"Shepherd's Bush\",\"Shoreditch\",\"Soho\",\"Southampton\",\"Stirling\",\"York \"]}]}]}}"
+}

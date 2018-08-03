@@ -1,0 +1,36 @@
+{
+  "id": "dawg",
+  "name": "Dawg Pubs",
+  "description": "Craft beer centre of excellence",
+  "minzoom": 0,
+  "maxzoom": 14,
+  "version": "1",
+  "scheme": "xyz",
+  "type": "overlay",
+  "bounds": [
+    -11.91,
+    49.3,
+    3.61,
+    61.61
+  ],
+  "center": [
+    0.85,
+    51.77,
+    14
+  ],
+  "format": "pbf",
+  "mapbox_logo": false,
+  "tiles": [
+    "https://raw.githubusercontent.com/snodnipper/vt-dawg/master/data/{z}/{x}/{y}.pbf"
+  ],
+  "vector_layers": [
+    {
+      "maxzoom": 14,
+      "id": "dawg",
+      "fields": {
+        "name": "String location name"
+      },
+      "minzoom": 0
+    }
+  ]
+}
