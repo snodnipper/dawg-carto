@@ -49,6 +49,10 @@
     "dawgs": {
       "type": "vector",
       "url": "https://snodnipper.github.io/vt-dawg/data/dawgs/config.json"
+    },
+    "geovation": {
+      "type": "vector",
+      "url": "https://snodnipper.github.io/vt-dawg/data/geovation/config.json"
     }
   },
   "sprite": "https://snodnipper.github.io/vt-dawg/sprites/sprites",
@@ -2436,6 +2440,15 @@
       "source-layer": "dawgs",
       "layout": {
         "icon-image": "dawg"
+      }
+    },
+    {
+      "id": "geovation",
+      "type": "symbol",
+      "source": "geovation",
+      "source-layer": "geovation",
+      "layout": {
+        "icon-image": "geovation"
       }
     }
   ],
