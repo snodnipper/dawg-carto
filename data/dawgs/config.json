@@ -1,5 +1,5 @@
 {
-  "id": "dawg",
+  "id": "dawgs",
   "name": "Dawg Pubs",
   "description": "Craft beer centre of excellence",
   "minzoom": 0,
@@ -21,12 +21,12 @@
   "format": "pbf",
   "mapbox_logo": false,
   "tiles": [
-    "https://raw.githubusercontent.com/snodnipper/vt-dawg/master/data/{z}/{x}/{y}.pbf"
+    "https://snodnipper.github.io/vt-dawg/data/dawgs/{z}/{x}/{y}.pbf"
   ],
   "vector_layers": [
     {
       "maxzoom": 14,
-      "id": "dawg",
+      "id": "dawgs",
       "fields": {
         "name": "String location name"
       },
