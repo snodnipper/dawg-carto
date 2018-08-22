@@ -55,7 +55,7 @@
       "url": "https://snodnipper.github.io/vt-dawg/data/geovation/config.json"
     }
   },
-  "sprite": "https://snodnipper.github.io/vt-dawg/sprites/sprites",
+  "sprite": "https://snodnipper.github.io/vt-dawg/sprites_small/sprites",
   "glyphs": "https://s3-eu-west-1.amazonaws.com/open.zoom.os.uk/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
